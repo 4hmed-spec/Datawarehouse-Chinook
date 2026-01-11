@@ -2,7 +2,7 @@
 Projet d'alimentation d'un Data Warehouse avec Oracle Data Integrator (ODI) et Oracle XE
 # 🎵 Projet Business Intelligence : Chinook Data Warehouse
 ![Oracle](https://img.shields.io/badge/Oracle-Database_XE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![ODI](https://img.shields.io/badge/ETL-Oracle_Data_Integrator_12c-orange?style=for-the-badge)
+![ODI](https://img.shields.io/badge/ETL-Oracle_Data_Integrator_11g-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
