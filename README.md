@@ -35,4 +35,4 @@ Le projet suit une architecture décisionnelle classique :
 2.  Lancer le Package principal `PKG_GLOBAL_LOAD` pour alimenter le DWH.
 
 ---
-*Projet réalisé à l'IUT - 2025/2026*
+*Projet réalisé à l'IUT de Roubaix site de Lille - 2025/2026*
