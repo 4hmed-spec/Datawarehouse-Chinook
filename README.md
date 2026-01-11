@@ -5,6 +5,8 @@ Projet d'alimentation d'un Data Warehouse avec Oracle Data Integrator (ODI) et O
 ![ODI](https://img.shields.io/badge/ETL-Oracle_Data_Integrator_12c-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+
 Ce projet a été réalisé dans le cadre de la SAE 3.02. L'objectif est de concevoir et d'alimenter un Data Warehouse (Entrepôt de données) à partir d'une base de données opérationnelle de vente de musique (Chinook).
 
 **Auteurs :** Ahmed Terir & Zakaria Charef
