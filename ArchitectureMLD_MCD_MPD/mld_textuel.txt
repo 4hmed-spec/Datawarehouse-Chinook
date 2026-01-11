@@ -1,0 +1,21 @@
+Artist (ArtistId, Name)
+
+Album (AlbumId, Title, #ArtistId)
+
+Genre (GenreId, Name)
+
+MediaType (MediaTypeId, Name)
+
+Track (TrackId, Name, Composer, Milliseconds, Bytes, UnitPrice, #AlbumId, #MediaTypeId, #GenreId)
+
+Playlist (PlaylistId, Name)
+
+PlaylistTrack (#PlaylistId, #TrackId) ← PK composée des deux FKs ( cle composite)
+
+Employee (EmployeeId, LastName, FirstName, Title, BirthDate, Address, City, State, Country, PostalCode, Phone, Fax, Email, HireDate, #ReportsTo)
+
+Customer (CustomerId, FirstName, LastName, Company, Address, City, State, Country, PostalCode, Phone, Fax, Email, #SupportRepId)
+
+Invoice (InvoiceId, InvoiceDate, BillingAddress, BillingCity, BillingState, BillingCountry, BillingPostalCode, Total, #CustomerId)
+
+InvoiceLine (InvoiceLineId, UnitPrice, Quantity, #InvoiceId, #TrackId)
