@@ -19,7 +19,7 @@ Le projet suit une architecture décisionnelle classique :
 
 ## 🛠️ Technologies utilisées
 * **SGBD :** Oracle Database XE
-* **ETL :** Oracle Data Integrator (ODI) 12c
+* **ETL :** Oracle Data Integrator (ODI) 11g
 * **Langages :** SQL, PL/SQL, Python (pour le nettoyage des scripts)
 
 ## 📂 Contenu du dépôt
